@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<div style="align: center;">
 
 # WWDC21
 
@@ -7,7 +7,7 @@
 **Swift Student Challenge 2021 Submission**
 
 
-</p>
+</div>
 
 <p style="text-align: center;">
   
@@ -16,7 +16,7 @@
 </p>
 
 - Global Warming awareness project, using ARKit SceneKit and UI Stuff.
-- 
+
 <p style="text-align: center;">
   
 ## Names:
