@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='An Overview'/>
+        <page name='Rising Seas'/>
+        <page name='A Heating Earth'/>
+        <page name='Extreme Events'/>
+        <page name='Venus'/>
+        <page name='What Can We Do?'/>
+        <page name='Credits'/>
+    </pages>
+</playground>
